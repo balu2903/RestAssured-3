@@ -1,0 +1,3 @@
+** Has solution for building the request with a simple JSON String ****
+
+http://stackoverflow.com/questions/21166137/rest-assured-is-it-possible-to-extract-value-from-request-json
